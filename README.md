@@ -47,9 +47,6 @@ Input CSV files use pipe delimiters with the following columns:
 - Modify prompt templates in `code/main.py` for new domains.
 - Tune Elasticsearch query parameters for better retrieval.
 
-## Security
-Never share real API keys. Replace the placeholder in `config.json` before running the code.
-
 ## Contributing
 Pull requests are welcome! Please open an issue first to discuss major changes.
 
