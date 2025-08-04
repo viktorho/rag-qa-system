@@ -1,0 +1,76 @@
+task_id|question|crime|answer|reference|id
+2|Will a theft stealing someone else's property result in being arrested and sentenced?|Theft, Crime|"Yes, under Chinese law, stealing someone else's property is considered a criminal offense, specifically theft. If someone is caught and convicted of theft, they can be arrested and sentenced. The specific penalties would depend on the value of the stolen property, the circumstances of the crime, and the offender's criminal record, among other factors. Chinese criminal law provides for various penalties for theft, which can range from fines to imprisonment.
+
+The laws you've provided do not directly address theft, but they do illustrate the principle that unauthorized taking or use of another person's property is punishable. For instance, using someone else's identity card or committing fraud related to identity cards is penalized, which is a similar concept to theft in terms of unauthorized taking. The same principles would apply to theft of physical property."|"According to Article 430 and Article 431 of this interpretation, for cases sent back for retrial, where a lower court has sentenced someone to death or a suspended death sentence, after the higher court reviews it through a second-instance procedure or a review procedure, it must make a judgment or ruling in accordance with the law and may not send it back for retrial again. However, exceptions apply if the lower court falls under the circumstances specified in Article 238 of the Criminal Procedure Law or violates Article 239 of the Criminal Procedure Law.	If someone knowingly refuses to provide information or evidence when judicial authorities are investigating espionage, terrorism, or extremism crimes committed by others, and if the circumstances are serious, they shall be sentenced to imprisonment for a term of three years or less, detention, or surveillance.	Anyone who commits any of the following acts shall be fined from 200 yuan to 1,000 yuan by the public security organs, or detained for up to ten days, and shall be confiscated of the illegal gains if any:
+
+(1) Using someone else's resident identity card or using a fraudulently obtained resident identity card;
+
+(2) Purchasing, selling, or using forged or altered resident identity cards.
+
+Forged or altered resident identity cards and fraudulently obtained resident identity cards shall be confiscated by the public security organs.	Advertisers or advertising operators who use someone else's name or likeness in advertisements must obtain their written consent beforehand; if using the name or likeness of a person without civil capacity or with restricted civil capacity, they must obtain written consent from their legal guardian beforehand.	Without permission, driving someone else's motor vehicle and causing a traffic accident resulting in damages, the responsibility lies with the user of the motor vehicle for compensation. If the owner or manager of the motor vehicle is at fault for the occurrence of the damage, they shall bear corresponding liability for compensation, except where otherwise stipulated in this chapter."|27099,55197,2558,7678,1162
+5|What are the circumstances that lead to aggravated punishment for theft?|Theft, Aggravation|"The circumstances that lead to aggravated punishment for theft, as outlined in the given Chinese laws, include:
+
+1. Theft under specific circumstances outlined in Article 2, Items 3 to 8 of the interpretation, which may include factors such as the theft being premeditated, committed by a group, targeted at vulnerable victims, etc.
+
+2. Theft by breaking into a residence.
+
+3. Theft committed while carrying a weapon.
+
+4. The amount stolen reaching ""a large amount"" or ""an especially large amount"" as defined in Article 1 of the interpretation. Specifically, if the value of the stolen property reaches 50% of the threshold for ""a large amount,"" it may be considered ""other serious circumstances,"" and if it reaches 50% of the threshold for ""an especially large amount,"" it may be considered ""particularly serious circumstances.""
+
+Aggravated punishments are then applied based on the severity of these circumstances, with the following penalties:
+
+- For theft in large amounts or repeated theft, burglary, theft with weapons, or pickpocketing, the punishment is imprisonment for less than three years, detention, or surveillance, and may also include a fine.
+
+- For theft involving a huge amount or other serious circumstances, the punishment is imprisonment for three to ten years, plus a fine.
+
+- For theft involving an extremely large amount or particularly serious circumstances, the punishment is imprisonment for more than ten years or life imprisonment, plus a fine or confiscation of property."|"Theft of public or private property, under one of the circumstances specified in Article 2, Items 3 to 8 of this interpretation, or theft by breaking into a residence or carrying a weapon, with an amount reaching ""a large amount"" or ""an especially large amount"" as defined in Article 1 of this interpretation by 50%, may be respectively determined to constitute ""other serious circumstances"" or ""particularly serious circumstances"" as stipulated in Article 264 of the Criminal Law.	Theft of public or private property, in large amounts, or repeated theft, burglary, theft with weapons, or pickpocketing, shall be punished with imprisonment for less than three years, detention, or surveillance, and may also be fined; for theft involving a huge amount or other serious circumstances, the punishment is imprisonment for three to ten years, plus a fine; for theft involving an extremely large amount or particularly serious circumstances, the punishment is imprisonment for more than ten years or life imprisonment, plus a fine or confiscation of property.	For cases involving commutation and parole, they should be handled as follows:
+
+1. Commutation for criminals sentenced to death with a suspension of execution shall be decided by the Higher People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation recommendation approved by the same-level prison administration.
+
+2. Commutation and parole for criminals sentenced to life imprisonment shall be decided by the Higher People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation approved by the same-level prison administration. If the case is complex or special circumstances apply, the decision period can be extended by one month.
+
+3. Commutation and parole for criminals sentenced to fixed-term imprisonment or whose sentences have been commuted to fixed-term imprisonment shall be decided by the Intermediate People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation proposed by the executing authority. If the case is complex or special circumstances apply, the decision period can be extended by one month.
+
+4. Commutation for criminals sentenced to detention or control shall be decided by the Intermediate People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation approved by the same-level executing authority.
+
+For criminals granted parole for medical treatment outside of prison, commutation should be applied according to relevant provisions as appropriate based on the circumstances.	Judicial personnel who privately release detained criminal suspects, defendants, or convicts shall be sentenced to less than five years of fixed-term imprisonment or detention; those with serious circumstances shall be sentenced to five to ten years of fixed-term imprisonment; those with especially serious circumstances shall be sentenced to more than ten years of fixed-term imprisonment.
+
+Judicial personnel who, due to serious irresponsibility, cause detained criminal suspects, defendants, or convicts to escape, resulting in serious consequences, shall be sentenced to less than three years of fixed-term imprisonment or detention; those causing particularly serious consequences shall be sentenced to three to ten years of fixed-term imprisonment.	For cases where the People's Procuratorate requests an explanation for the reasons not to file a case, the public security organs shall, within seven days upon receiving the notification, provide a written explanation to the People's Procuratorate regarding the circumstances, basis, and reasons for not filing the case.
+
+If the public security organs decide to file a case, they shall make a copy of the decision on filing the case and deliver it to the People's Procuratorate within fifteen days upon receiving the notification.
+
+When the People's Procuratorate notifies the public security organs to file a case, the public security organs shall file the case within fifteen days upon receiving the notification, and deliver a copy of the decision on filing the case to the People's Procuratorate."|30779,55137,25626,55294,19975
+10|What impact does a prior theft record have on being caught stealing again?|Theft, Prior Record, Criminal Threshold|"The information provided does not specifically address the impact of a prior theft record on being caught stealing again under Chinese laws. However, generally speaking, in many legal systems, including China's, a prior criminal record can have several potential impacts on subsequent legal proceedings:
+
+1. Aggravated Sentencing: If an individual has a prior conviction for a similar offense, such as theft, the law may provide for an increased sentence upon being convicted of a subsequent offense. This is based on the principle of recidivism, where repeat offenders may face harsher penalties.
+
+2. Enhanced Scrutiny: A person with a prior theft record may be more likely to be suspected of involvement in a new theft, potentially leading to closer scrutiny by law enforcement and possibly making it more likely for them to be caught.
+
+3. Weighing as a Factor in Sentencing: Even if there is no specific law enhancing the penalty for repeat offenders, a judge may consider a prior record as a negative factor during sentencing, potentially leading to a less lenient sentence.
+
+4. Probation and Parole: If the individual was on probation or parole for a prior offense, being caught stealing again could result in the revocation of probation or parole, leading to incarceration.
+
+5. Criminal Record: A prior record can also affect future employment, housing, and other opportunities, which may indirectly influence an individual's likelihood of reoffending.
+
+It's important to note that the actual impact would depend on the specific laws of the jurisdiction, the nature of the prior offense, the current offense, and the circumstances of the case. For a precise understanding of how a prior theft record would impact a subsequent theft charge in China, one would need to consult the relevant provisions of the Chinese Criminal Law and consider case law and legal precedents."|"If any of the following circumstances exist for the parties applying for marriage registration, the marriage registration authority shall not register the marriage:
+
+1. Not reaching the legal age for marriage;
+2. Not being voluntary for both parties;
+3. One party or both parties already having a spouse;
+4. Being direct blood relatives or collateral blood relatives within three generations;
+5. Afflicted with a medical condition that is considered by medical science as unfit for marriage.	Within one year, repeatedly engaging in the production, copying, publishing, selling, or dissemination of obscene electronic information without being dealt with constitutes a crime. The cumulative quantity or amount shall be punished according to law upon conviction.	Theft of general cultural relics, third-grade cultural relics, and second-grade or higher cultural relics shall be respectively identified as ""large amount"", ""huge amount"", and ""especially huge amount"" as stipulated in Article 264 of the Criminal Law.
+
+If it is difficult to determine the grade of the stolen cultural relics, or if the conviction and sentencing based on the grade of cultural relics are obviously too lenient or too severe, the conviction and sentencing shall be based on the value of the stolen cultural relics.	The endorser who marks ""not transferable"" on the bill of exchange, if it is subsequently endorsed and transferred by another party, the original endorser is not liable to the subsequent endorsee.	Prohibited actions that endanger the safety of dedicated transmission facilities for broadcast and television signals and impair their operational efficiency include:
+
+(1) Within a 5-meter range on each side of buried underground transmission lines and a 50-meter range on each side of underwater transmission lines, laying flammable and explosive gas (liquid) main pipelines, anchoring, dragging, dredging, and other construction operations.
+
+(2) Moving, damaging transmission lines, terminal poles, tower masts (poles), and their ancillary equipment, markers.
+
+(3) Planting root and stem plants within a 1-meter range around buried underground transmission line markers that may entwine transmission lines, dumping corrosive substances.
+
+(4) Trees having their tops less than 2 meters away from overhead transmission lines.
+
+(5) Excavating sand, digging soil within a 1-meter range around transmission line towers (poles), guy wires, or dumping corrosive substances within a 5-meter range around them, stacking flammable and explosive materials.
+
+(6) Tying livestock, hanging objects, or climbing crops on transmission line towers (poles), guy wires."|39390,25537,27557,11270,49113

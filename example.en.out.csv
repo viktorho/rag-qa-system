@@ -1,0 +1,83 @@
+task_id|question|crime|answer|reference|id
+2|Will a theft stealing someone else's property result in being arrested and sentenced?|Theft, Crime|"Yes, under Chinese law, theft, which involves stealing someone else's property, is a criminal offense and can result in arrest and sentencing. The specific penalties for theft are outlined in the Criminal Law of the People's Republic of China. The punishment for theft can vary depending on the value of the stolen property, the circumstances of the crime, and whether there are any aggravating factors, such as the use of violence or the status of the victim.
+
+While the details of the laws you've provided focus on other offenses such as food safety violations, illegal firearms and explosives, toxic substances, and tax evasion, the general principle applies that theft is a punishable offense. For instance, if the value of the stolen property is significant, the theft could result in a sentence of imprisonment, detention, and/or a fine, in accordance with the relevant provisions of the Criminal Law. If you need specific details on the penalties for theft under Chinese law, those can be found in the Criminal Law of China, specifically in the sections that address property-related crimes."|"Producing or selling food that does not meet food safety standards, which could cause serious food poisoning incidents or other severe foodborne diseases, is punishable by up to three years of imprisonment or detention, and a fine. If it causes serious harm to human health or involves other serious circumstances, the sentence is three to seven years of imprisonment, along with a fine. In cases where the consequences are particularly serious, the sentence is more than seven years of imprisonment, life imprisonment, and a fine or confiscation of property.	Illegal manufacturing, buying, selling, transporting, mailing, or storing firearms, ammunition, explosives, shall be sentenced to imprisonment for more than three years but less than ten years; if the circumstances are serious, the sentence shall be imprisonment for more than ten years, life imprisonment, or death penalty.
+
+Illegal manufacturing, buying, selling, transporting, or storing toxic, radioactive, infectious disease pathogens, and other substances that endanger public safety shall be punished according to the provisions of the preceding paragraph.
+
+If a unit commits the crimes specified in the preceding two paragraphs, it shall be fined, and the directly responsible person in charge and other directly responsible personnel shall be punished according to the provisions of the first paragraph.	The Supreme People's Procuratorate and provincial-level People's Procuratorates, when handling cases that are directly accepted for investigation upon filing, after arresting a suspect, shall promptly transfer the arrested person to a detention center. Except in cases where notification is impossible, the investigating department shall inform the family members of the arrested person of the reasons for the arrest and the place of detention within twenty-four hours. For cases where notification is impossible, once the circumstances preventing notification are resolved, the family members should be notified immediately.	According to Article 430 and Article 431 of this interpretation, for cases sent back for retrial, where a lower court has sentenced someone to death or a suspended death sentence, after the higher court reviews it through a second-instance procedure or a review procedure, it must make a judgment or ruling in accordance with the law and may not send it back for retrial again. However, exceptions apply if the lower court falls under the circumstances specified in Article 238 of the Criminal Procedure Law or violates Article 239 of the Criminal Procedure Law.	The crime of issuing false VAT special invoices or other invoices for the purpose of defrauding export tax refunds or offsetting tax payments shall be punished as follows:
+
+1. If the amount of evaded tax is relatively large or there are other serious circumstances, the offender shall be sentenced to imprisonment for three to ten years, and fined between fifty thousand to five hundred thousand yuan.
+   
+2. If the amount of evaded tax is huge or there are other particularly serious circumstances, the offender shall be sentenced to imprisonment for a minimum of ten years, life imprisonment, or fined between fifty thousand to five hundred thousand yuan, or have their property confiscated.
+
+For offenses committed by a company, the company shall be fined. The directly responsible person in charge and other directly responsible personnel shall be sentenced to imprisonment for up to three years or detention. If the amount of evaded tax is relatively large or there are other serious circumstances, the sentence is three to ten years imprisonment. If the amount of evaded tax is huge or there are other particularly serious circumstances, the sentence is a minimum of ten years imprisonment or life imprisonment. 
+
+Issuing false VAT special invoices or other invoices for the purpose of defrauding export tax refunds or offsetting tax payments refers to acts including issuing such invoices for others, for oneself, causing others to issue for oneself, or introducing others to engage in such activities."|54999,54975,29135,27099,55068
+5|What are the circumstances that lead to aggravated punishment for theft?|Theft, Aggravation|"Aggravated punishment for theft can occur under the following circumstances as per the Chinese laws you've described:
+
+1. **Amount of Stolen Property**: The theft is categorized into ""a large amount,"" ""a huge amount,"" and ""an especially huge amount"" based on the value of the stolen property. The specific monetary standards for these categories can be determined by the higher people's courts and procuratorates based on local economic conditions, but they generally fall within the following ranges:
+   - A large amount: Between 1,000 yuan and more than 3,000 yuan.
+   - A huge amount: Between 30,000 yuan and more than 100,000 yuan.
+   - An especially huge amount: Between 300,000 yuan and more than 500,000 yuan.
+
+2. **Serious Circumstances**: Theft under specific circumstances, such as those listed in Article 2, Items 3 to 8 of the interpretation, or theft committed by breaking into a residence or with a weapon, where the amount reaches 50% of ""a large amount"" or ""an especially large amount,"" may be considered ""other serious circumstances"" or ""particularly serious circumstances.""
+
+3. **Theft of Prohibited Items**: The theft of drugs or other prohibited items is handled as a theft crime and can result in more severe sentences based on the circumstances.
+
+4. **Concealment or Disguise of Proceeds**: Conspiring with criminals involved in theft, robbery, fraud, and plunder to conceal or disguise the proceeds and gains from such crimes can lead to punishment as an accomplice to these crimes, which would likely result in more severe punishment.
+
+These circumstances can lead to increased penalties for theft as they reflect the severity of the offense and the potential harm to society."|"Theft of public or private property valued between 1,000 yuan and more than 3,000 yuan, 30,000 yuan and more than 100,000 yuan, and 300,000 yuan and more than 500,000 yuan should respectively be recognized as ""a large amount,"" ""a huge amount,"" and ""an especially huge amount"" as stipulated in Article 264 of the Criminal Law.
+
+The higher people's courts and people's procuratorates of provinces, autonomous regions, and municipalities directly under the Central Government may, based on the local economic development and social security conditions, determine specific monetary standards within the range specified above for implementation in their respective regions, subject to approval by the Supreme People's Court and the Supreme People's Procuratorate.
+
+In cases of theft on public transportation vehicles operating across regions where the theft location cannot be verified, whether the stolen amount reaches ""a large amount,"" ""a huge amount,"" or ""an especially huge amount"" should be determined according to the relevant monetary standards set by the higher people's courts and people's procuratorates of provinces, autonomous regions, and municipalities directly under the Central Government where the case is handled.
+
+The theft of drugs and other prohibited items should be handled as theft crimes and sentenced based on the severity of the circumstances.	Theft of public or private property, under one of the circumstances specified in Article 2, Items 3 to 8 of this interpretation, or theft by breaking into a residence or carrying a weapon, with an amount reaching ""a large amount"" or ""an especially large amount"" as defined in Article 1 of this interpretation by 50%, may be respectively determined to constitute ""other serious circumstances"" or ""particularly serious circumstances"" as stipulated in Article 264 of the Criminal Law.	For cases involving commutation and parole, they should be handled as follows:
+
+1. Commutation for criminals sentenced to death with a suspension of execution shall be decided by the Higher People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation recommendation approved by the same-level prison administration.
+
+2. Commutation and parole for criminals sentenced to life imprisonment shall be decided by the Higher People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation approved by the same-level prison administration. If the case is complex or special circumstances apply, the decision period can be extended by one month.
+
+3. Commutation and parole for criminals sentenced to fixed-term imprisonment or whose sentences have been commuted to fixed-term imprisonment shall be decided by the Intermediate People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation proposed by the executing authority. If the case is complex or special circumstances apply, the decision period can be extended by one month.
+
+4. Commutation for criminals sentenced to detention or control shall be decided by the Intermediate People's Court in the jurisdiction where the criminal is serving their sentence. The court shall make a ruling within one month upon receiving the commutation or parole recommendation approved by the same-level executing authority.
+
+For criminals granted parole for medical treatment outside of prison, commutation should be applied according to relevant provisions as appropriate based on the circumstances.	Conspiring with criminals involved in theft, robbery, fraud, and plunder to conceal or disguise the proceeds and gains from such crimes shall be punished as an accomplice to theft, robbery, fraud, and plunder.	When the applicant of an invention patent requests substantive examination, they should submit relevant reference materials related to their invention before the application date.
+
+If an invention patent has been previously applied for in a foreign country, the patent administrative department under the State Council may require the applicant to submit, within a specified period, documents related to the search conducted for examining their application or the results of the examination. Failure to submit these documents without justified reasons within the stipulated period will result in the application being deemed withdrawn."|30774,30779,25626,25344,12098
+10|What impact does a prior theft record have on being caught stealing again?|Theft, Prior Record, Criminal Threshold|"The information provided does not specifically address the impact of a prior theft record on being caught stealing again under Chinese laws. However, generally speaking, in many legal systems, including China's, a prior conviction for a similar offense can have several potential impacts on subsequent legal proceedings:
+
+1. **Enhanced Punishment**: If a person has a prior theft record, they may face harsher penalties for subsequent theft offenses. Repeat offenders often receive stiffer sentences as a deterrent to further criminal behavior.
+
+2. **Increased Scrutiny**: A prior record may lead law enforcement to pay closer attention to an individual, increasing the likelihood of being caught if they reoffend.
+
+3. **Criminal Record Check**: During the investigation or trial for a new offense, the prosecutor or the court may consider the defendant's criminal history, which can influence the outcome of the case.
+
+4. **Probation and Parole**: If the individual was on probation or parole for a prior offense, being caught stealing again could result in the revocation of probation or parole, leading to incarceration.
+
+5. **Legal Presumptions**: Some jurisdictions may have legal presumptions that make it easier to prove certain elements of a crime for repeat offenders, such as the presumption of intent.
+
+6. **Sentencing Guidelines**: Sentencing guidelines may recommend or require a longer sentence for repeat offenders.
+
+It's important to note that the actual impact would depend on the specific laws of the jurisdiction, the nature of the prior offense, the current offense, and the circumstances of the case. In China, as in other countries, the legal system takes into account a defendant's criminal history when determining sentences and may consider a prior theft record as an aggravating factor in subsequent theft cases."|"If any of the following circumstances exist for the parties applying for marriage registration, the marriage registration authority shall not register the marriage:
+
+1. Not reaching the legal age for marriage;
+2. Not being voluntary for both parties;
+3. One party or both parties already having a spouse;
+4. Being direct blood relatives or collateral blood relatives within three generations;
+5. Afflicted with a medical condition that is considered by medical science as unfit for marriage.	Within one year, repeatedly engaging in the production, copying, publishing, selling, or dissemination of obscene electronic information without being dealt with constitutes a crime. The cumulative quantity or amount shall be punished according to law upon conviction.	Theft of general cultural relics, third-grade cultural relics, and second-grade or higher cultural relics shall be respectively identified as ""large amount"", ""huge amount"", and ""especially huge amount"" as stipulated in Article 264 of the Criminal Law.
+
+If it is difficult to determine the grade of the stolen cultural relics, or if the conviction and sentencing based on the grade of cultural relics are obviously too lenient or too severe, the conviction and sentencing shall be based on the value of the stolen cultural relics.	The endorser who marks ""not transferable"" on the bill of exchange, if it is subsequently endorsed and transferred by another party, the original endorser is not liable to the subsequent endorsee.	Prohibited actions that endanger the safety of dedicated transmission facilities for broadcast and television signals and impair their operational efficiency include:
+
+(1) Within a 5-meter range on each side of buried underground transmission lines and a 50-meter range on each side of underwater transmission lines, laying flammable and explosive gas (liquid) main pipelines, anchoring, dragging, dredging, and other construction operations.
+
+(2) Moving, damaging transmission lines, terminal poles, tower masts (poles), and their ancillary equipment, markers.
+
+(3) Planting root and stem plants within a 1-meter range around buried underground transmission line markers that may entwine transmission lines, dumping corrosive substances.
+
+(4) Trees having their tops less than 2 meters away from overhead transmission lines.
+
+(5) Excavating sand, digging soil within a 1-meter range around transmission line towers (poles), guy wires, or dumping corrosive substances within a 5-meter range around them, stacking flammable and explosive materials.
+
+(6) Tying livestock, hanging objects, or climbing crops on transmission line towers (poles), guy wires."|39390,25537,27557,11270,49113
